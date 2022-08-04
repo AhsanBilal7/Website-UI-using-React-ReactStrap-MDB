@@ -1,0 +1,31 @@
+.grid-container{
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: 1fr 2fr 1.5fr  ;
+    gap: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.grid-container2{
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: 2fr 1.5fr 1fr  ;
+    gap: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.grid-item{
+    /* border: 1px solid red; */
+    object-fit: fill;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    height: 250px;
+}
+.grid-item img{
+    
+    /* border: 1px solid red; */
+object-fit: fill;
+height: 100% ;
+width:100% ;
+}

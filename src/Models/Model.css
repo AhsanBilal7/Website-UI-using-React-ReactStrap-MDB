@@ -1,0 +1,37 @@
+/* * {
+    color: black;
+} */
+.cycle
+{
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 130px;
+    margin-top: 17px;
+
+}
+.left
+{
+    /* border: 1px solid red; */
+   
+    
+}
+.left img{
+    height: 45vh;
+}
+.right
+{
+    /* border: 1px solid red; */
+    width: 20%;
+    text-align: left;
+}
+.right button{
+   background-color: #FDE626;
+   border: none;
+   border-radius: 3px;
+   padding: 8px;
+}
+.right button:hover{
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}

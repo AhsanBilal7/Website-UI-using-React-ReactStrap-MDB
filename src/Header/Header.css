@@ -1,0 +1,20 @@
+.section{
+    gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo-back
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#FDE626;
+    width: 74px;
+height: 74px;
+border-radius: 5px;
+}
+.choose
+{
+    margin: 15px;
+}

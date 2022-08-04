@@ -1,0 +1,23 @@
+@media only screen and (min-width: 992px) {
+  .heading {
+    display: flex;
+    gap: 20px;
+    margin-left: 5px;
+  }
+  .searchbar {
+    width: 50%;
+    margin-right: 10px;
+  }
+}
+.main {
+  margin: 10px 0px;
+  background: #ffffff;
+  /* Background Bar */
+
+  box-shadow: 0px 0px 16px rgba(7, 76, 166, 0.21);
+  border-radius: 4px;
+}
+.bg{
+    background-color: rgba(255, 228, 2, 0.85);
+    padding: 5px;
+}

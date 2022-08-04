@@ -1,0 +1,10 @@
+
+.mainfooter h6 ,.mainfooter  p   {
+    /* border: 1px solid red; */
+    color: white;
+    
+}
+.mainfooter{
+    background-color: black;
+ margin-top: 10px;
+}
